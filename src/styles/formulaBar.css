@@ -1,0 +1,26 @@
+.formula-bar {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    padding: 5px 10px;
+    border-bottom: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+  }
+  
+  .cell-label {
+    width: 60px;
+    text-align: right;
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .formula-input {
+    flex: 1;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    outline: none;
+  }
+  
